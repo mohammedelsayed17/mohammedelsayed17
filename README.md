@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Mohammed ElSayed!
+## 👋 Hi, I'm Mohammed Kelany!
 
 I'm a junior full-stack .NET developer passionate about building clean, scalable web applications using ASP.NET Core and modern front-end frameworks like Angular.
 
